@@ -2,8 +2,8 @@
 <img src="https://github.com/thiago1623/thiago1623/blob/main/marios_description.gif" class="responsive"/>
 
 <h3>MY STATS 🦾</h3>
-<a><img width="432" img align="left" alt="Thiago's Github Stats" src="https://github-readme-stats.vercel.app/api?username=thiago1623&show_icons=true&theme=gotham" class="responsive" />
-</a><a><img width="400" img align="center" alt="TopLang" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiago1623&layout=compact&hide=html&theme=gotham" class="responsive"/></a>  
+<a><img width="432" img align="left" alt="Thiago's Github Stats" src="https://github-readme-stats.vercel.app/api?username=thiago1623&show_icons=true&theme=react" class="responsive" />
+</a><a><img width="400" img align="center" alt="TopLang" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiago1623&layout=compact&hide=html&theme=react" class="responsive"/></a>  
 <h3 align="center">CONTACT ME!</h3>
 <p align="center">
     <!-- linkedin -->
